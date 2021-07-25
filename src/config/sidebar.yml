@@ -1,24 +1,26 @@
 # Sidebar navigation
 
-- label: 'Introduction'
+- label: '首页'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
-  items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
 - label: 微信非官方文档
   items:
     - label: '25 位银行账户'
-      link: '/wechat/25-yinhang-zhanghao'
+      link: '/pages/wechat/25-yinhang-zhanghao'
+- label: 企业级 Web 应用开发
+  items:
+    - label: 'Page'
+      link: '/pro-web/ch01/page'
+- label: Awesome
+  items:
+    - label: '职业'
+      link: '/pages/awesome/career'
+    - label: '研报'
+      link: '/pages/research-report/'
+- label: Lorem
+  items:
+    - label: '微博'
+      link: '/pages/lorem/weibo'
 - label: More
   items:
-    - label: FAQ
-      link: /faq
     - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+      link: https://github.com/lisitede/lisitede.github.io
