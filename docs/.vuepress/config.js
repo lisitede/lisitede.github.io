@@ -5,6 +5,7 @@ const sidebar = require('./sidebar');
 module.exports = {
   host: '0.0.0.0',
   port: '3001',
+  pagePatterns: ['**/*.md', '!.vuepress', '!node_modules', '!pro-web/apps'],
 
   lang: 'zh-CN',
   title: '理斯特的',

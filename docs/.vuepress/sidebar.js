@@ -1,3 +1,6 @@
+const proWeb = require('./sidebar-pro-web');
+
+
 module.exports = {
   '/pages/awesome': [
     {
@@ -29,4 +32,5 @@ module.exports = {
       ]
     }
   ],
+  ...proWeb,
 };
