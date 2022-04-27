@@ -1,13 +1,4 @@
 module.exports = {
-  '/pages/lorem': [
-    {
-      text: '假文',
-      children: [
-        '/pages/lorem/weibo/',
-        '/pages/lorem/xiaosangguai/'
-      ]
-    }
-  ],
   '/pages/awesome': [
     {
       text: '职业',
@@ -19,5 +10,23 @@ module.exports = {
       ]
     },
     { text: '研报', link: '/pages/awesome/research-report/' }
+  ],
+  '/pages/lorem': [
+    {
+      text: '假文',
+      children: [
+        '/pages/lorem/weibo/',
+        '/pages/lorem/xiaosangguai/'
+      ]
+    }
+  ],
+  '/pages/read': [
+    {
+      text: '阅读',
+      children: [
+        '/pages/read/design/',
+        '/pages/read/ddd/',
+      ]
+    }
   ],
 };
