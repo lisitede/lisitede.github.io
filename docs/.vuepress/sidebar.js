@@ -16,7 +16,8 @@ module.exports = {
       text: '假文',
       children: [
         '/pages/lorem/weibo/',
-        '/pages/lorem/xiaosangguai/'
+        '/pages/lorem/xiaosangguai/',
+        '/pages/lorem/align/'
       ]
     }
   ],
