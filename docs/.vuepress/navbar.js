@@ -29,9 +29,5 @@ module.exports = [
       { text: '设计', link: '/pages/read/design/' },
       { text: '领域驱动设计', link: '/pages/read/ddd/' },
     ],
-  },
-  {
-    text: '企业级 Web 应用开发',
-    link: '/pro-web/',
-  },
+  }
 ];

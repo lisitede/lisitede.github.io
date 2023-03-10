@@ -103,3 +103,6 @@ dist
 
 # Mac files
 .DS_Store
+
+package-lock.json
+.head-cli/
