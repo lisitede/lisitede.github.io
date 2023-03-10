@@ -1,0 +1,7 @@
+:root {
+  --vp-sidebar-width: 300px;
+}
+
+header .title a.title {
+  color: #525a5d;
+}
