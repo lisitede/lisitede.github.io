@@ -21,6 +21,7 @@ module.exports = [
     children: [
       { text: '微博', link: '/pages/lorem/weibo/' },
       { text: '小丧怪', link: '/pages/lorem/xiaosangguai/' },
+      { text: '对齐', link: '/pages/lorem/align/' },
     ],
   },
   {
