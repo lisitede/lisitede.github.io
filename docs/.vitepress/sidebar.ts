@@ -7,6 +7,7 @@ module.exports = {
         { text: '我的 Starwood 之路「转载 」', link: '/pages/awesome/career/starwood/' },
         { text: '梁启超的感慨与金融危机「转载 」', link: '/pages/awesome/career/liangqichao/' },
         { text: '一个小老板的日常管理手册「转载 」', link: '/pages/awesome/career/xiaolaoban/' },
+        { text: '互联网是人类历史的一段弯路吗？「转载 」', link: '/pages/awesome/career/wanlu/' },
       ]
     },
     { text: '研报', link: '/pages/awesome/research-report/' },
