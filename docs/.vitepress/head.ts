@@ -1,17 +1,18 @@
-const ga = 'G-96EPGBWZFV';
+const ga = "G-96EPGBWZFV";
 
-
-module.exports = [
+const head = [
   [
-    'script',
+    "script",
     {
       async: true,
       src: `https://www.googletagmanager.com/gtag/js?id=${ga}`,
     },
   ],
   [
-    'script',
+    "script",
     {},
     `window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', '${ga}');`,
   ],
 ];
+
+export default head;
