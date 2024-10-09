@@ -12,7 +12,7 @@ export default defineConfig({
   head,
 
   themeConfig: {
-    logo: "https://cdn.lisitede.com/logo-lisitede.png",
+    logo: "https://gitlab-hbrls.lisitede.com/rsrc/img/logo-lisitede.png",
     aside: false,
     search: {
       provider: "local",
