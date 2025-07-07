@@ -38,8 +38,8 @@ const sidebar = {
     {
       text: "阅读",
       items: [
-        { text: "领域驱动设计", link: "/pages/read/design/" },
-        { text: "设计", link: "/pages/read/ddd/" },
+        { text: "领域驱动设计", link: "/pages/read/ddd/" },
+        { text: "设计", link: "/pages/read/design/" },
       ],
     },
   ],
