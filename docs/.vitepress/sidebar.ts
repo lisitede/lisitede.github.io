@@ -43,6 +43,14 @@ const sidebar = {
       ],
     },
   ],
+  "/pages/ai-baby/": [
+    {
+      text: "AI 鼓励师",
+      items: [
+        { text: "Agent 点评", link: "/pages/ai-baby/agent-review/" },
+      ],
+    },
+  ],
 };
 
 export default sidebar;
