@@ -9,10 +9,8 @@
     "build": "vitepress build docs",
     "preview": "vitepress preview docs"
   },
-  "dependencies": {
-    "vitepress": "1.4.5"
-  },
-  "optionalDependencies": {
-    "@rollup/rollup-linux-x64-gnu": "4.9.5"
+  "devDependencies": {
+    "@head.js/snippet": "0.5.9",
+    "vitepress": "1.6.3"
   }
 }

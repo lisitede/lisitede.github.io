@@ -31,6 +31,12 @@ const nav = [
       { text: "设计", link: "/pages/read/design/" },
     ],
   },
+  {
+    text: "AI 鼓励师",
+    items: [
+      { text: "Agent 点评", link: "/pages/ai-baby/agent-review/" },
+    ],
+  },
 ];
 
 export default nav;
