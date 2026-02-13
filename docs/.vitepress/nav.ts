@@ -35,6 +35,7 @@ const nav = [
     text: "AI 鼓励师",
     items: [
       { text: "Agent 点评", link: "/pages/ai-baby/agent-review/" },
+      { text: "基准测试", link: "/pages/ai-baby/benchmark/" },
     ],
   },
 ];
