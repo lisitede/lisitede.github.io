@@ -11,7 +11,7 @@ export default defineConfig({
   description: "技能 / 知识 / 经验",
 
   transformHtml: makeTransformHtml(
-    'https://gitlab-hbrls.lisitede.com/unpkg/@head.js/guancecom-browser-rum-slim@3.2.24-10/guancecom-browser-rum-slim.js',
+    'https://lisitede.com/unpkg/@head.js/guancecom-browser-rum-slim@3.2.24-10/guancecom-browser-rum-slim.js',
     '09c80c92c4bc46818c12373f1ab6e96c',
     'lisitede',
     '1.0.0',
@@ -19,7 +19,7 @@ export default defineConfig({
     {}),
 
   themeConfig: {
-    logo: "https://gitlab-hbrls.lisitede.com/rsrc/img/logo-lisitede.png",
+    logo: "https://lisitede.com/rsrc/img/logo-lisitede.png",
     aside: false,
     search: {
       provider: "local",
