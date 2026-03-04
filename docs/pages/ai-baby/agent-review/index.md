@@ -1,25 +1,24 @@
 # Agent 点评
 
-#### [VSCode + Copilot](https://github.com/settings/billing)
-
-- **Pro $10/mo.**
-- 可以使用 `Claude Opus 4.6`，`GPT-5.3` 等
-
 #### [Windsurf](https://windsurf.com/subscription/usage)
 
 - **Pro $15/mo.** [🎁](https://windsurf.com/refer?referral_code=zi2qkog20jsl3ofx)
 - 可以使用 `Claude Opus 4.6`，`GPT-5.3` 等
 
-#### [👍VSCode + Cline + MiniMax-M2.1](https://platform.minimaxi.com/user-center/payment/coding-plan)
+#### [👍VSCode + Cline + MiniMax-M2.5](https://platform.minimaxi.com/user-center/payment/coding-plan)
 
 - **Pro ￥29/mo.** [🎁](https://platform.minimaxi.com/subscribe/coding-plan?code=64r5NqVotM&source=link)
 - 内置支持配置 `MiniMax`
-- Cline 有 JetBrains 插件，但不好用
 
-#### [VSCode + Kilo Code + GLM-4.7](https://bigmodel.cn/usercenter/glm-coding/usage)
+#### [Kilo Code Cli + 阿里云百炼 Coding Plan GLM-5](https://bailian.console.aliyun.com/cn-beijing/?tab=coding-plan#/efm/detail)
 
-- **Pro ￥40/mo.** [🎁](https://www.bigmodel.cn/glm-coding?ic=BYAWD0VWG4)
-- 内置支持配置 `OpenAI Compatible`
+- **Pro ￥40/mo.**
+- [手把手教你安装 @kilocode/cli](https://mp.weixin.qq.com/s/ImjbmFthEO6FLtEnuKVXNQ)
+
+#### [VSCode + Copilot](https://github.com/settings/billing)
+
+- **Pro $10/mo.**
+- 可以使用 `Claude Opus 4.6`，`GPT-5.3` 等
 
 #### [CodeBuddy](https://www.codebuddy.ai/profile/usage)
 
@@ -57,5 +56,6 @@
 ---
 
 *更多内容正在整理中...*
+
 
 
