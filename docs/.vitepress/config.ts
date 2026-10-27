@@ -11,12 +11,13 @@ export default defineConfig({
   description: "技能 / 知识 / 经验",
 
   transformHtml: makeTransformHtml(
-    'https://lisitede.com/unpkg/@head.js/guancecom-browser-rum-slim@3.2.24-10/guancecom-browser-rum-slim.js',
-    '09c80c92c4bc46818c12373f1ab6e96c',
-    'lisitede',
+    'https://lisitede.com/unpkg/@head.js/gc-rum-browser-slim@3.3.21-4/gc-rum-browser-slim.js',
+    'https://cn3-rum-openway.guance.com',
+    'cd0d737faba948008d5b22cc8c6fd177',
+    'com',
     '1.0.0',
     'prd',
-    {}),
+    { visitorId: { enabled: true} }),
 
   themeConfig: {
     logo: "https://lisitede.com/rsrc/img/logo-lisitede.png",
