@@ -14,6 +14,10 @@
 
 - **Pro ￥159/mo.**，略贵，体感是 ¥99 的量
 
+#### 👍 中转 + [AnPin AI](https://anpin.ai/dashboard) → [🎁](https://anpin.ai/register?aff=3NVXCWD6TGLH)
+
+- 体感没有掺水
+
 #### VSCode + KiloCode + [火山方舟 GLM-5.3](https://console.volcengine.com/ark/region:cn-beijing/subscription/coding-plan) → [🎁 邀请码：FFDJG6NK](https://volcengine.com/L/8JcIdTsW844/)
 
 - **Lite 49/mo.**
@@ -33,16 +37,12 @@
 
 #### 中转 + [ZenMux](https://zenmux.ai/platform/usage) → [🎁](https://zenmux.ai/invite/WCSXRV)
 
-- **Pro $20/mo.** 略贵
+- 略贵
 
 #### 👍 [Windsurf](https://windsurf.com/subscription/usage) → [🎁](https://windsurf.com/refer?referral_code=zi2qkog20jsl3ofx)
 
 - **Pro $20/mo.**
 - 可以使用 `Claude Opus 4.7`，`GPT-5.5` 等
-
-#### 👍 中转 + [MoaCode](https://moacode.org/dashboard) → [🎁](https://moacode.org/register?ref=hbrls)
-
-- **PAYGO $7.80 -> 汇率 $50**，略贵
 
 #### [Qoder](https://qoder.com/account/usage)
 
@@ -60,9 +60,10 @@
 
 - **Pro ￥49/mo.**
 
-#### 中转 + [ModelGate Claude](https://modelgate.net/settings?tab=credits) → 🎁 nuwgxR
+#### 中转 + 贵 + 不好用
 
-- 略贵
+- [MoaCode](https://moacode.org/dashboard) → [🎁](https://moacode.org/register?ref=hbrls)
+- [ModelGate](https://modelgate.net)
 
 #### [CodeBuddy](https://www.codebuddy.ai/profile/usage) → [🎁](https://www.codebuddy.ai/promotion/?ref=iz51whz0inw)
 
